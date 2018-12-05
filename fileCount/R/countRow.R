@@ -7,8 +7,8 @@
 
 count1 <- function() { 
  
-  numRow1 <- nrow(RLM_Data)
-   return(numRow1)
+  numRow <- nrow(RLM_Data)
+   return(numRow)
 }
 
 
